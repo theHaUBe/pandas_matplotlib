@@ -1,5 +1,3 @@
-#HUBERT GÓRECKI nr albumu 147599
-
 import pandas as pd
 import os
 import matplotlib.pyplot as plt
